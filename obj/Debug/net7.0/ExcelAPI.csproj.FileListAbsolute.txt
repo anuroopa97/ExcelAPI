@@ -1,0 +1,15 @@
+/Users/anuroopa/Desktop/ExcelSheetsAPI/ExcelAPI/obj/Debug/net7.0/ExcelAPI.csproj.AssemblyReference.cache
+/Users/anuroopa/Desktop/ExcelSheetsAPI/ExcelAPI/obj/Debug/net7.0/ExcelAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anuroopa/Desktop/ExcelSheetsAPI/ExcelAPI/obj/Debug/net7.0/ExcelAPI.AssemblyInfoInputs.cache
+/Users/anuroopa/Desktop/ExcelSheetsAPI/ExcelAPI/obj/Debug/net7.0/ExcelAPI.AssemblyInfo.cs
+/Users/anuroopa/Desktop/ExcelSheetsAPI/ExcelAPI/obj/Debug/net7.0/ExcelAPI.csproj.CoreCompileInputs.cache
+/Users/anuroopa/Desktop/ExcelSheetsAPI/ExcelAPI/bin/Debug/net7.0/ExcelAPI
+/Users/anuroopa/Desktop/ExcelSheetsAPI/ExcelAPI/bin/Debug/net7.0/ExcelAPI.deps.json
+/Users/anuroopa/Desktop/ExcelSheetsAPI/ExcelAPI/bin/Debug/net7.0/ExcelAPI.runtimeconfig.json
+/Users/anuroopa/Desktop/ExcelSheetsAPI/ExcelAPI/bin/Debug/net7.0/ExcelAPI.dll
+/Users/anuroopa/Desktop/ExcelSheetsAPI/ExcelAPI/bin/Debug/net7.0/ExcelAPI.pdb
+/Users/anuroopa/Desktop/ExcelSheetsAPI/ExcelAPI/obj/Debug/net7.0/ExcelAPI.dll
+/Users/anuroopa/Desktop/ExcelSheetsAPI/ExcelAPI/obj/Debug/net7.0/refint/ExcelAPI.dll
+/Users/anuroopa/Desktop/ExcelSheetsAPI/ExcelAPI/obj/Debug/net7.0/ExcelAPI.pdb
+/Users/anuroopa/Desktop/ExcelSheetsAPI/ExcelAPI/obj/Debug/net7.0/ExcelAPI.genruntimeconfig.cache
+/Users/anuroopa/Desktop/ExcelSheetsAPI/ExcelAPI/obj/Debug/net7.0/ref/ExcelAPI.dll
